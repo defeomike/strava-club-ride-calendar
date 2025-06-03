@@ -2,3 +2,6 @@
 # Add your Strava club URLs here, one per line
 # Lines starting with # are ignored
 https://www.strava.com/clubs/pasnormalstudiossanfrancisco
+https://www.strava.com/clubs/stravaornot
+https://www.strava.com/clubs/FatCake
+https://www.strava.com/clubs/raphasanfrancisco
