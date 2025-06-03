@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strava Club Events Calendar</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #24292e;
+        }
+        h1 { color: #fc4c02; }  /* Strava orange */
+        .calendar-link {
+            display: inline-block;
+            background: #fc4c02;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 4px;
+            margin: 20px 0;
+        }
+        .calendar-link:hover {
+            background: #e34402;
+        }
+        code {
+            background: #f6f8fa;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1>Strava Club Events Calendar</h1>
+    
+    <p>This calendar contains upcoming events from Strava cycling clubs in the San Francisco Bay Area.</p>
+    
+    <a href="calendar.ics" class="calendar-link">📅 Download Calendar</a>
+    
+    <h2>How to Use</h2>
+    
+    <h3>Google Calendar</h3>
+    <ol>
+        <li>Click the "Download Calendar" button above</li>
+        <li>In Google Calendar, click the "+" next to "Other calendars"</li>
+        <li>Choose "From URL"</li>
+        <li>Paste this URL: <code>https://defeomike.github.io/strava-club-ride-calendar/calendar.ics</code></li>
+        <li>Click "Add calendar"</li>
+    </ol>
+    
+    <h3>Apple Calendar</h3>
+    <ol>
+        <li>Click the "Download Calendar" button above</li>
+        <li>Open the downloaded .ics file</li>
+        <li>Click "Subscribe" in the prompt</li>
+    </ol>
+    
+    <h3>Other Calendar Apps</h3>
+    <p>Most calendar applications support .ics files. You can either:</p>
+    <ul>
+        <li>Download and open the .ics file directly</li>
+        <li>Subscribe to the calendar URL: <code>https://defeomike.github.io/strava-club-ride-calendar/calendar.ics</code></li>
+    </ul>
+    
+    <h2>About</h2>
+    <p>This calendar is automatically updated with events from Strava cycling clubs. Events are set to notify 30 minutes before the start time.</p>
+    
+    <p><small>Last updated: <span id="last-updated"></span></small></p>
+    
+    <script>
+        // Update last updated time
+        fetch('calendar.ics')
+            .then(response => response.headers.get('last-modified'))
+            .then(date => {
+                if (date) {
+                    document.getElementById('last-updated').textContent = new Date(date).toLocaleString();
+                }
+            });
+    </script>
+</body>
+</html> 

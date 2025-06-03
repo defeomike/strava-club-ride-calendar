@@ -246,12 +246,17 @@ class StravaEventScraper:
             
             cal.add_component(event)
         
-        # Write to file
-        with open('calendar.ics', 'wb') as f:
+        # Ensure docs directory exists
+        os.makedirs('docs', exist_ok=True)
+        
+        # Write to file in docs directory
+        calendar_path = os.path.join('docs', 'calendar.ics')
+        with open(calendar_path, 'wb') as f:
             f.write(cal.to_ical())
             
         print(f"✅ Generated calendar.ics with {len(self.events)} events")
-        print(f"📍 File location: {os.path.abspath('calendar.ics')}")
+        print(f"📍 File location: {os.path.abspath(calendar_path)}")
+        print(f"🌐 Will be available at: https://defeomike.github.io/strava-club-ride-calendar/calendar.ics")
     
     def run(self):
         """Main execution flow"""
