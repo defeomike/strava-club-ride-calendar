@@ -223,7 +223,7 @@ class StravaEventScraper:
             print(f"   📅 {event['datetime'].strftime('%a %m/%d %I:%M %p')} - {event['name']}")
     
     def generate_ics_calendar(self):
-        """Generate ICS calendar file"""
+        """Generate ICS calendar file and commit to GitHub"""
         print(f"\n📄 Generating calendar.ics...")
         
         cal = Calendar()
@@ -257,6 +257,32 @@ class StravaEventScraper:
         print(f"✅ Generated calendar.ics with {len(self.events)} events")
         print(f"📍 File location: {os.path.abspath(calendar_path)}")
         print(f"🌐 Will be available at: https://defeomike.github.io/strava-club-ride-calendar/calendar.ics")
+        
+        # Commit and push changes
+        try:
+            import subprocess
+            print("\n📤 Committing and pushing changes to GitHub...")
+            
+            # Add the calendar file
+            subprocess.run(['git', 'add', calendar_path], check=True)
+            
+            # Get current date for commit message
+            date_str = datetime.now().strftime('%Y-%m-%d %H:%M')
+            
+            # Commit with timestamp
+            subprocess.run(['git', 'commit', '-m', f'Update calendar with latest events ({date_str})'], check=True)
+            
+            # Push to GitHub
+            subprocess.run(['git', 'push'], check=True)
+            
+            print("✅ Successfully updated calendar on GitHub")
+            
+        except subprocess.CalledProcessError as e:
+            print(f"⚠️  Failed to update GitHub: {str(e)}")
+            print("💡 You can manually commit and push the changes later")
+        except Exception as e:
+            print(f"⚠️  Unexpected error updating GitHub: {str(e)}")
+            print("💡 You can manually commit and push the changes later")
     
     def run(self):
         """Main execution flow"""
