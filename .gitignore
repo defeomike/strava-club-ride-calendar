@@ -1,0 +1,20 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and credentials
+config.ini
+.env
+
+# Browser profile
+chrome_profile/
+
+# Generated files
+*.png
+calendar.ics
+
+# IDE
+.vscode/
+.idea/
