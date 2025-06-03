@@ -1,0 +1,138 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Strava Club Events//mxm.dk//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Strava Club Events
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+SUMMARY:Women's Balance Training
+DTSTART;TZID=America/Los_Angeles:20250603T163000
+DTEND;TZID=America/Los_Angeles:20250603T170000
+DTSTAMP:20250603T192317Z
+UID:2055464@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055464\nRide starts at: 05:00 PM
+URL:https://www.strava.com/clubs/1083211/group_events/2055464
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Coffee Ride
+DTSTART;TZID=America/Los_Angeles:20250609T063000
+DTEND;TZID=America/Los_Angeles:20250609T070000
+DTSTAMP:20250603T192317Z
+UID:2055481@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055481\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2055481
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midsummer Challenge Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250610T060000
+DTEND;TZID=America/Los_Angeles:20250610T063000
+DTSTAMP:20250603T192317Z
+UID:2074910@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2074910\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2074910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balance Training
+DTSTART;TZID=America/Los_Angeles:20250610T163000
+DTEND;TZID=America/Los_Angeles:20250610T170000
+DTSTAMP:20250603T192317Z
+UID:2055468@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055468\nRide starts at: 05:00 PM
+URL:https://www.strava.com/clubs/1083211/group_events/2055468
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Coffee Ride
+DTSTART;TZID=America/Los_Angeles:20250616T063000
+DTEND;TZID=America/Los_Angeles:20250616T070000
+DTSTAMP:20250603T192317Z
+UID:2055485@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055485\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2055485
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midsummer Challenge Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250617T060000
+DTEND;TZID=America/Los_Angeles:20250617T063000
+DTSTAMP:20250603T192317Z
+UID:2074918@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2074918\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2074918
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balance Training
+DTSTART;TZID=America/Los_Angeles:20250617T163000
+DTEND;TZID=America/Los_Angeles:20250617T170000
+DTSTAMP:20250603T192317Z
+UID:2055469@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055469\nRide starts at: 05:00 PM
+URL:https://www.strava.com/clubs/1083211/group_events/2055469
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250621T073000
+DTEND;TZID=America/Los_Angeles:20250621T080000
+DTSTAMP:20250603T192317Z
+UID:2075695@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2075695\nRide starts at: 08:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2075695
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravel Social Ride
+DTSTART;TZID=America/Los_Angeles:20250621T080000
+DTEND;TZID=America/Los_Angeles:20250621T083000
+DTSTAMP:20250603T192317Z
+UID:2077001@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2077001\nRide starts at: 08:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2077001
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Coffee Ride
+DTSTART;TZID=America/Los_Angeles:20250623T063000
+DTEND;TZID=America/Los_Angeles:20250623T070000
+DTSTAMP:20250603T192317Z
+UID:2055487@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055487\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2055487
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Balance Training
+DTSTART;TZID=America/Los_Angeles:20250624T163000
+DTEND;TZID=America/Los_Angeles:20250624T170000
+DTSTAMP:20250603T192317Z
+UID:2055473@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055473\nRide starts at: 05:00 PM
+URL:https://www.strava.com/clubs/1083211/group_events/2055473
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midsummer Challenge 2025
+DTSTART;TZID=America/Los_Angeles:20250628T073000
+DTEND;TZID=America/Los_Angeles:20250628T080000
+DTSTAMP:20250603T192317Z
+UID:2077103@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2077103\nRide starts at: 08:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2077103
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Coffee Ride
+DTSTART;TZID=America/Los_Angeles:20250630T063000
+DTEND;TZID=America/Los_Angeles:20250630T070000
+DTSTAMP:20250603T192317Z
+UID:2055502@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2055502\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2055502
+END:VEVENT
+END:VCALENDAR

@@ -13,7 +13,8 @@ chrome_profile/
 
 # Generated files
 *.png
-calendar.ics
+# Allow calendar.ics in docs directory
+!docs/calendar.ics
 
 # IDE
 .vscode/
