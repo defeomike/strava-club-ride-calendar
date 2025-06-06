@@ -6,40 +6,10 @@ METHOD:PUBLISH
 X-WR-CALNAME:Strava Club Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Women's Balance Training
-DTSTART;TZID=America/Los_Angeles:20250603T163000
-DTEND;TZID=America/Los_Angeles:20250603T170000
-DTSTAMP:20250603T204922Z
-UID:2055464@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2055464\nRide starts at: 05:00 PM
-URL:https://www.strava.com/clubs/1083211/group_events/2055464
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Camel Ride
-DTSTART;TZID=America/Los_Angeles:20250604T061500
-DTEND;TZID=America/Los_Angeles:20250604T064500
-DTSTAMP:20250603T204922Z
-UID:1594352@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /1594352\nRide starts at: 06:45 AM
-URL:https://www.strava.com/clubs/912255/group_events/1594352
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rapha & 707 Collab
-DTSTART;TZID=America/Los_Angeles:20250606T063000
-DTEND;TZID=America/Los_Angeles:20250606T070000
-DTSTAMP:20250603T204922Z
-UID:2064337@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2064337\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/2064337
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radler Willkommen
 DTSTART;TZID=America/Los_Angeles:20250606T143000
 DTEND;TZID=America/Los_Angeles:20250606T150000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2064152@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
  /2064152\nRide starts at: 03:00 PM
@@ -49,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:Midsummer Challenge Training Road Ride *Drop Ride*
 DTSTART;TZID=America/Los_Angeles:20250607T070000
 DTEND;TZID=America/Los_Angeles:20250607T073000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2077338@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2077338\nRide starts at: 07:30 AM
@@ -59,7 +29,7 @@ BEGIN:VEVENT
 SUMMARY:Saucy Sunday ✨💅
 DTSTART;TZID=America/Los_Angeles:20250608T093000
 DTEND;TZID=America/Los_Angeles:20250608T100000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:1897928@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
  /1897928\nRide starts at: 10:00 AM
@@ -70,7 +40,7 @@ SUMMARY:FatCake Femme\, Women\, Trans\, Non-Binary (FTWNB) Weekly Monday R
  ide
 DTSTART;TZID=America/Los_Angeles:20250609T060000
 DTEND;TZID=America/Los_Angeles:20250609T063000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:1645364@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  1645364\nRide starts at: 06:30 AM
@@ -80,7 +50,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Coffee Ride
 DTSTART;TZID=America/Los_Angeles:20250609T063000
 DTEND;TZID=America/Los_Angeles:20250609T070000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055481@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055481\nRide starts at: 07:00 AM
@@ -90,7 +60,7 @@ BEGIN:VEVENT
 SUMMARY:Midsummer Challenge Training Road Ride
 DTSTART;TZID=America/Los_Angeles:20250610T060000
 DTEND;TZID=America/Los_Angeles:20250610T063000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2074910@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2074910\nRide starts at: 06:30 AM
@@ -100,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY:Tuesday Headlands 🦅
 DTSTART;TZID=America/Los_Angeles:20250610T060000
 DTEND;TZID=America/Los_Angeles:20250610T063000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:1783310@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  1783310\nRide starts at: 06:30 AM
@@ -110,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Aftercake Ornot
 DTSTART;TZID=America/Los_Angeles:20250610T080000
 DTEND;TZID=America/Los_Angeles:20250610T083000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:1985807@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/183693/group_events
  /1985807\nRide starts at: 08:30 AM
@@ -120,27 +90,47 @@ BEGIN:VEVENT
 SUMMARY:Balance Training
 DTSTART;TZID=America/Los_Angeles:20250610T163000
 DTEND;TZID=America/Los_Angeles:20250610T170000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055468@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055468\nRide starts at: 05:00 PM
 URL:https://www.strava.com/clubs/1083211/group_events/2055468
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Camel Ride
+DTSTART;TZID=America/Los_Angeles:20250611T061500
+DTEND;TZID=America/Los_Angeles:20250611T064500
+DTSTAMP:20250606T172112Z
+UID:1594352@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /1594352\nRide starts at: 06:45 AM
+URL:https://www.strava.com/clubs/912255/group_events/1594352
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oatly Coffee Ride presented by Rapha
 DTSTART;TZID=America/Los_Angeles:20250614T083000
 DTEND;TZID=America/Los_Angeles:20250614T090000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2048484@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
  /2048484\nRide starts at: 09:00 AM
 URL:https://www.strava.com/clubs/912255/group_events/2048484
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ornot Beginner Gravel Ride (WTFNB+) with Tazkia and Yuko
+DTSTART;TZID=America/Los_Angeles:20250615T083000
+DTEND;TZID=America/Los_Angeles:20250615T090000
+DTSTAMP:20250606T172112Z
+UID:2080459@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/183693/group_events
+ /2080459\nRide starts at: 09:00 AM
+URL:https://www.strava.com/clubs/183693/group_events/2080459
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monday Coffee Ride
 DTSTART;TZID=America/Los_Angeles:20250616T063000
 DTEND;TZID=America/Los_Angeles:20250616T070000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055485@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055485\nRide starts at: 07:00 AM
@@ -150,7 +140,7 @@ BEGIN:VEVENT
 SUMMARY:Midsummer Challenge Training Road Ride
 DTSTART;TZID=America/Los_Angeles:20250617T060000
 DTEND;TZID=America/Los_Angeles:20250617T063000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2074918@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2074918\nRide starts at: 06:30 AM
@@ -160,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY:Balance Training
 DTSTART;TZID=America/Los_Angeles:20250617T163000
 DTEND;TZID=America/Los_Angeles:20250617T170000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055469@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055469\nRide starts at: 05:00 PM
@@ -170,7 +160,7 @@ BEGIN:VEVENT
 SUMMARY:Women's Training Road Ride
 DTSTART;TZID=America/Los_Angeles:20250621T073000
 DTEND;TZID=America/Los_Angeles:20250621T080000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2075695@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2075695\nRide starts at: 08:00 AM
@@ -180,17 +170,27 @@ BEGIN:VEVENT
 SUMMARY:Gravel Social Ride
 DTSTART;TZID=America/Los_Angeles:20250621T080000
 DTEND;TZID=America/Los_Angeles:20250621T083000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2077001@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2077001\nRide starts at: 08:30 AM
 URL:https://www.strava.com/clubs/1083211/group_events/2077001
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Women’s Muir Wood
+DTSTART;TZID=America/Los_Angeles:20250621T081500
+DTEND;TZID=America/Los_Angeles:20250621T084500
+DTSTAMP:20250606T172112Z
+UID:2079545@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /2079545\nRide starts at: 08:45 AM
+URL:https://www.strava.com/clubs/912255/group_events/2079545
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monday Coffee Ride
 DTSTART;TZID=America/Los_Angeles:20250623T063000
 DTEND;TZID=America/Los_Angeles:20250623T070000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055487@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055487\nRide starts at: 07:00 AM
@@ -200,7 +200,7 @@ BEGIN:VEVENT
 SUMMARY:Balance Training
 DTSTART;TZID=America/Los_Angeles:20250624T163000
 DTEND;TZID=America/Los_Angeles:20250624T170000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055473@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055473\nRide starts at: 05:00 PM
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Midsummer Challenge 2025
 DTSTART;TZID=America/Los_Angeles:20250628T073000
 DTEND;TZID=America/Los_Angeles:20250628T080000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2077103@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2077103\nRide starts at: 08:00 AM
@@ -220,7 +220,7 @@ BEGIN:VEVENT
 SUMMARY:Monday Coffee Ride
 DTSTART;TZID=America/Los_Angeles:20250630T063000
 DTEND;TZID=America/Los_Angeles:20250630T070000
-DTSTAMP:20250603T204922Z
+DTSTAMP:20250606T172112Z
 UID:2055502@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2055502\nRide starts at: 07:00 AM
