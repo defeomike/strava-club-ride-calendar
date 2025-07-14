@@ -6,214 +6,164 @@ METHOD:PUBLISH
 X-WR-CALNAME:Strava Club Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Midsummer Challenge Training Road Ride
-DTSTART;TZID=America/Los_Angeles:20250624T060000
-DTEND;TZID=America/Los_Angeles:20250624T063000
-DTSTAMP:20250624T011834Z
-UID:2091150@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2091150\nRide starts at: 06:30 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2091150
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tuesday Headlands 🦅
-DTSTART;TZID=America/Los_Angeles:20250624T060000
-DTEND;TZID=America/Los_Angeles:20250624T063000
-DTSTAMP:20250624T011834Z
-UID:1783310@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
- 1783310\nRide starts at: 06:30 AM
-URL:https://www.strava.com/clubs/40422/group_events/1783310
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Aftercake Ornot
-DTSTART;TZID=America/Los_Angeles:20250624T080000
-DTEND;TZID=America/Los_Angeles:20250624T083000
-DTSTAMP:20250624T011834Z
-UID:1985807@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/183693/group_events
- /1985807\nRide starts at: 08:30 AM
-URL:https://www.strava.com/clubs/183693/group_events/1985807
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Balance Training
-DTSTART;TZID=America/Los_Angeles:20250624T163000
-DTEND;TZID=America/Los_Angeles:20250624T170000
-DTSTAMP:20250624T011834Z
-UID:2055473@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2055473\nRide starts at: 05:00 PM
-URL:https://www.strava.com/clubs/1083211/group_events/2055473
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Camel Ride
-DTSTART;TZID=America/Los_Angeles:20250625T061500
-DTEND;TZID=America/Los_Angeles:20250625T064500
-DTSTAMP:20250624T011834Z
-UID:1594352@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /1594352\nRide starts at: 06:45 AM
-URL:https://www.strava.com/clubs/912255/group_events/1594352
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ornot Ride and Draw with Chris McNally
-DTSTART;TZID=America/Los_Angeles:20250625T163000
-DTEND;TZID=America/Los_Angeles:20250625T170000
-DTSTAMP:20250624T011834Z
-UID:2098376@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/183693/group_events
- /2098376\nRide starts at: 05:00 PM
-URL:https://www.strava.com/clubs/183693/group_events/2098376
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stammtisch Ride
-DTSTART;TZID=America/Los_Angeles:20250626T172000
-DTEND;TZID=America/Los_Angeles:20250626T175000
-DTSTAMP:20250624T011834Z
-UID:2107645@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2107645\nRide starts at: 05:50 PM
-URL:https://www.strava.com/clubs/912255/group_events/2107645
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Radler Willkommen
-DTSTART;TZID=America/Los_Angeles:20250627T143000
-DTEND;TZID=America/Los_Angeles:20250627T150000
-DTSTAMP:20250624T011834Z
-UID:2064152@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2064152\nRide starts at: 03:00 PM
-URL:https://www.strava.com/clubs/912255/group_events/2064152
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Midsummer Challenge 2025 *NEW ROUTE AND START TIME*
-DTSTART;TZID=America/Los_Angeles:20250628T063000
-DTEND;TZID=America/Los_Angeles:20250628T070000
-DTSTAMP:20250624T011834Z
-UID:2077103@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2077103\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2077103
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stay Classy\, Marin County
-DTSTART;TZID=America/Los_Angeles:20250629T083000
-DTEND;TZID=America/Los_Angeles:20250629T090000
-DTSTAMP:20250624T011834Z
-UID:2097115@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2097115\nRide starts at: 09:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/2097115
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FatCake Femme\, Women\, Trans\, Non-Binary (FTWNB) Weekly Monday R
  ide
-DTSTART;TZID=America/Los_Angeles:20250630T060000
-DTEND;TZID=America/Los_Angeles:20250630T063000
-DTSTAMP:20250624T011834Z
+DTSTART;TZID=America/Los_Angeles:20250714T060000
+DTEND;TZID=America/Los_Angeles:20250714T063000
+DTSTAMP:20250714T023502Z
 UID:1645364@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  1645364\nRide starts at: 06:30 AM
 URL:https://www.strava.com/clubs/40422/group_events/1645364
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Monday Coffee Ride
-DTSTART;TZID=America/Los_Angeles:20250630T063000
-DTEND;TZID=America/Los_Angeles:20250630T070000
-DTSTAMP:20250624T011834Z
-UID:2055502@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2055502\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2055502
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Training Road Ride
-DTSTART;TZID=America/Los_Angeles:20250701T060000
-DTEND;TZID=America/Los_Angeles:20250701T063000
-DTSTAMP:20250624T011834Z
-UID:2105840@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2105840\nRide starts at: 06:30 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2105840
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's Balance Training
-DTSTART;TZID=America/Los_Angeles:20250701T163000
-DTEND;TZID=America/Los_Angeles:20250701T170000
-DTSTAMP:20250624T011834Z
-UID:2105838@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2105838\nRide starts at: 05:00 PM
-URL:https://www.strava.com/clubs/1083211/group_events/2105838
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women’s Ride - Mount Tam
-DTSTART;TZID=America/Los_Angeles:20250704T073000
-DTEND;TZID=America/Los_Angeles:20250704T080000
-DTSTAMP:20250624T011834Z
-UID:2102873@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2102873\nRide starts at: 08:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/2102873
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Coffee Ride
-DTSTART;TZID=America/Los_Angeles:20250707T063000
-DTEND;TZID=America/Los_Angeles:20250707T070000
-DTSTAMP:20250624T011834Z
-UID:2105833@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2105833\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2105833
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Training Road Ride
-DTSTART;TZID=America/Los_Angeles:20250708T060000
-DTEND;TZID=America/Los_Angeles:20250708T063000
-DTSTAMP:20250624T011834Z
-UID:2105842@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2105842\nRide starts at: 06:30 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2105842
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Saucy Sunday ✨💅
-DTSTART;TZID=America/Los_Angeles:20250713T093000
-DTEND;TZID=America/Los_Angeles:20250713T100000
-DTSTAMP:20250624T011834Z
-UID:1897928@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /1897928\nRide starts at: 10:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/1897928
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Monday Coffee Ride
+SUMMARY:Social Coffee Road Ride pb Fellow
 DTSTART;TZID=America/Los_Angeles:20250714T063000
 DTEND;TZID=America/Los_Angeles:20250714T070000
-DTSTAMP:20250624T011834Z
-UID:2105834@strava-scraper
+DTSTAMP:20250714T023502Z
+UID:2118341@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/2105834\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/1083211/group_events/2105834
+ s/2118341\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2118341
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Training Road Ride
 DTSTART;TZID=America/Los_Angeles:20250715T060000
 DTEND;TZID=America/Los_Angeles:20250715T063000
-DTSTAMP:20250624T011834Z
+DTSTAMP:20250714T023502Z
 UID:2105849@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2105849\nRide starts at: 06:30 AM
 URL:https://www.strava.com/clubs/1083211/group_events/2105849
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250715T060000
+DTEND;TZID=America/Los_Angeles:20250715T063000
+DTSTAMP:20250714T023502Z
+UID:2105842@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2105842\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2105842
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tuesday Headlands 🦅
+DTSTART;TZID=America/Los_Angeles:20250715T060000
+DTEND;TZID=America/Los_Angeles:20250715T063000
+DTSTAMP:20250714T023502Z
+UID:1783310@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
+ 1783310\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/40422/group_events/1783310
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Camel Ride
+DTSTART;TZID=America/Los_Angeles:20250716T061500
+DTEND;TZID=America/Los_Angeles:20250716T064500
+DTSTAMP:20250714T023502Z
+UID:1594352@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /1594352\nRide starts at: 06:45 AM
+URL:https://www.strava.com/clubs/912255/group_events/1594352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rapha Clubhouse Networking Ride
+DTSTART;TZID=America/Los_Angeles:20250717T141500
+DTEND;TZID=America/Los_Angeles:20250717T144500
+DTSTAMP:20250714T023502Z
+UID:2123818@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /2123818\nRide starts at: 02:45 PM
+URL:https://www.strava.com/clubs/912255/group_events/2123818
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:PAS Queen Stage Challenge
+DTSTART;TZID=America/Los_Angeles:20250719T060000
+DTEND;TZID=America/Los_Angeles:20250719T063000
+DTSTAMP:20250714T023502Z
+UID:2120526@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2120526\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2120526
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rapha - Platform Bridge
+DTSTART;TZID=America/Los_Angeles:20250719T080000
+DTEND;TZID=America/Los_Angeles:20250719T083000
+DTSTAMP:20250714T023502Z
+UID:2143158@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /2143158\nRide starts at: 08:30 AM
+URL:https://www.strava.com/clubs/912255/group_events/2143158
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Monday Coffee Ride
 DTSTART;TZID=America/Los_Angeles:20250721T063000
 DTEND;TZID=America/Los_Angeles:20250721T070000
-DTSTAMP:20250624T011834Z
+DTSTAMP:20250714T023502Z
 UID:2105847@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
  s/2105847\nRide starts at: 07:00 AM
 URL:https://www.strava.com/clubs/1083211/group_events/2105847
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250722T060000
+DTEND;TZID=America/Los_Angeles:20250722T063000
+DTSTAMP:20250714T023502Z
+UID:2105850@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2105850\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2105850
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Rapha Clubhouse Networking Ride
+DTSTART;TZID=America/Los_Angeles:20250724T141500
+DTEND;TZID=America/Los_Angeles:20250724T144500
+DTSTAMP:20250714T023502Z
+UID:2123822@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /2123822\nRide starts at: 02:45 PM
+URL:https://www.strava.com/clubs/912255/group_events/2123822
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Gravel Training Ride
+DTSTART;TZID=America/Los_Angeles:20250726T063000
+DTEND;TZID=America/Los_Angeles:20250726T070000
+DTSTAMP:20250714T023502Z
+UID:2111436@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2111436\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2111436
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Women's Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250726T073000
+DTEND;TZID=America/Los_Angeles:20250726T080000
+DTSTAMP:20250714T023502Z
+UID:2111446@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2111446\nRide starts at: 08:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2111446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monday Coffee Ride
+DTSTART;TZID=America/Los_Angeles:20250728T063000
+DTEND;TZID=America/Los_Angeles:20250728T070000
+DTSTAMP:20250714T023502Z
+UID:2105848@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2105848\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2105848
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Training Road Ride
+DTSTART;TZID=America/Los_Angeles:20250729T060000
+DTEND;TZID=America/Los_Angeles:20250729T063000
+DTSTAMP:20250714T023502Z
+UID:2105851@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/2105851\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/2105851
 END:VEVENT
 END:VCALENDAR
