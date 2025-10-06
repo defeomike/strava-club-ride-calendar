@@ -6,150 +6,110 @@ METHOD:PUBLISH
 X-WR-CALNAME:Strava Club Events
 X-WR-TIMEZONE:America/Los_Angeles
 BEGIN:VEVENT
-SUMMARY:Radler Willkommen
-DTSTART;TZID=America/Los_Angeles:20250912T143000
-DTEND;TZID=America/Los_Angeles:20250912T150000
-DTSTAMP:20250912T002440Z
-UID:2159251@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /2159251\nRide starts at: 03:00 PM
-URL:https://www.strava.com/clubs/912255/group_events/2159251
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women's 100 San Francisco
-DTSTART;TZID=America/Los_Angeles:20250913T083000
-DTEND;TZID=America/Los_Angeles:20250913T090000
-DTSTAMP:20250912T002440Z
-UID:3398853351014582136@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /3398853351014582136\nRide starts at: 09:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/3398853351014582136
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Social Road Ride - Coffee
-DTSTART;TZID=America/Los_Angeles:20250915T063000
-DTEND;TZID=America/Los_Angeles:20250915T070000
-DTSTAMP:20250912T002440Z
-UID:3396200759689646820@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/3396200759689646820\nRide starts at: 07:00 AM
-URL:https://www.strava.com/clubs/1083211/group_events/3396200759689646820
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Training Road Ride (week 3/4)
-DTSTART;TZID=America/Los_Angeles:20250916T054500
-DTEND;TZID=America/Los_Angeles:20250916T061500
-DTSTAMP:20250912T002440Z
-UID:3395147324603313908@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/3395147324603313908\nRide starts at: 06:15 AM
-URL:https://www.strava.com/clubs/1083211/group_events/3395147324603313908
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Tuesday Headlands 🦅
-DTSTART;TZID=America/Los_Angeles:20250916T060000
-DTEND;TZID=America/Los_Angeles:20250916T063000
-DTSTAMP:20250912T002440Z
+DTSTART;TZID=America/Los_Angeles:20251007T060000
+DTEND;TZID=America/Los_Angeles:20251007T063000
+DTSTAMP:20251006T205108Z
 UID:1783310@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  1783310\nRide starts at: 06:30 AM
 URL:https://www.strava.com/clubs/40422/group_events/1783310
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The Camel Ride
-DTSTART;TZID=America/Los_Angeles:20250917T061500
-DTEND;TZID=America/Los_Angeles:20250917T064500
-DTSTAMP:20250912T002440Z
-UID:1594352@strava-scraper
+SUMMARY:THE CAMEL RIDE
+DTSTART;TZID=America/Los_Angeles:20251008T061500
+DTEND;TZID=America/Los_Angeles:20251008T064500
+DTSTAMP:20251006T205108Z
+UID:3407844450935471750@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /1594352\nRide starts at: 06:45 AM
-URL:https://www.strava.com/clubs/912255/group_events/1594352
+ /3407844450935471750\nRide starts at: 06:45 AM
+URL:https://www.strava.com/clubs/912255/group_events/3407844450935471750
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Epic Road Ride
-DTSTART;TZID=America/Los_Angeles:20250920T070000
-DTEND;TZID=America/Los_Angeles:20250920T073000
-DTSTAMP:20250912T002440Z
-UID:3400197311948340538@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/3400197311948340538\nRide starts at: 07:30 AM
-URL:https://www.strava.com/clubs/1083211/group_events/3400197311948340538
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:All the Views (Alpine & Stinson)
-DTSTART;TZID=America/Los_Angeles:20250920T080000
-DTEND;TZID=America/Los_Angeles:20250920T083000
-DTSTAMP:20250912T002440Z
-UID:3401367765210523642@strava-scraper
+SUMMARY:Radler Willkommen
+DTSTART;TZID=America/Los_Angeles:20251010T143000
+DTEND;TZID=America/Los_Angeles:20251010T150000
+DTSTAMP:20251006T205108Z
+UID:2159251@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /3401367765210523642\nRide starts at: 08:30 AM
-URL:https://www.strava.com/clubs/912255/group_events/3401367765210523642
+ /2159251\nRide starts at: 03:00 PM
+URL:https://www.strava.com/clubs/912255/group_events/2159251
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Training Road Ride (Week 4/4)
-DTSTART;TZID=America/Los_Angeles:20250923T054500
-DTEND;TZID=America/Los_Angeles:20250923T061500
-DTSTAMP:20250912T002440Z
-UID:3395148318000497396@strava-scraper
+SUMMARY:Monday FTWNB City Loop
+DTSTART;TZID=America/Los_Angeles:20251013T060000
+DTEND;TZID=America/Los_Angeles:20251013T063000
+DTSTAMP:20251006T205108Z
+UID:2185177@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
+ 2185177\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/40422/group_events/2185177
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Social Road Ride - Coffee
+DTSTART;TZID=America/Los_Angeles:20251013T063000
+DTEND;TZID=America/Los_Angeles:20251013T070000
+DTSTAMP:20251006T205108Z
+UID:3396200759689646820@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/3395148318000497396\nRide starts at: 06:15 AM
-URL:https://www.strava.com/clubs/1083211/group_events/3395148318000497396
+ s/3396200759689646820\nRide starts at: 07:00 AM
+URL:https://www.strava.com/clubs/1083211/group_events/3396200759689646820
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Epic Road Ride - Heading South
+DTSTART;TZID=America/Los_Angeles:20251018T060000
+DTEND;TZID=America/Los_Angeles:20251018T063000
+DTSTAMP:20251006T205108Z
+UID:3408982870713840444@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
+ s/3408982870713840444\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/1083211/group_events/3408982870713840444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FTWNB Mondays
+DTSTART;TZID=America/Los_Angeles:20251020T060000
+DTEND;TZID=America/Los_Angeles:20251020T063000
+DTSTAMP:20251006T205108Z
+UID:3402496927173756216@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
+ 3402496927173756216\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/40422/group_events/3402496927173756216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ONE MORE CITY ROUTE
+DTSTART;TZID=America/Los_Angeles:20251025T073000
+DTEND;TZID=America/Los_Angeles:20251025T080000
+DTSTAMP:20251006T205108Z
+UID:3408913310606792102@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
+ /3408913310606792102\nRide starts at: 08:00 AM
+URL:https://www.strava.com/clubs/912255/group_events/3408913310606792102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:FTWNB Wildcard
+DTSTART;TZID=America/Los_Angeles:20251027T060000
+DTEND;TZID=America/Los_Angeles:20251027T063000
+DTSTAMP:20251006T205108Z
+UID:3405026049083935436@strava-scraper
+DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
+ 3405026049083935436\nRide starts at: 06:30 AM
+URL:https://www.strava.com/clubs/40422/group_events/3405026049083935436
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🍞 🫄Breadbelly
-DTSTART;TZID=America/Los_Angeles:20250925T060000
-DTEND;TZID=America/Los_Angeles:20250925T063000
-DTSTAMP:20250912T002440Z
+DTSTART;TZID=America/Los_Angeles:20251030T060000
+DTEND;TZID=America/Los_Angeles:20251030T063000
+DTSTAMP:20251006T205108Z
 UID:3395822700568155556@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  3395822700568155556\nRide starts at: 06:30 AM
 URL:https://www.strava.com/clubs/40422/group_events/3395822700568155556
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Scenic South Bay Tour
-DTSTART;TZID=America/Los_Angeles:20250928T083000
-DTEND;TZID=America/Los_Angeles:20250928T090000
-DTSTAMP:20250912T002440Z
-UID:3399264611866289532@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /3399264611866289532\nRide starts at: 09:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/3399264611866289532
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Women’s Ride to Four Corners
-DTSTART;TZID=America/Los_Angeles:20250928T083000
-DTEND;TZID=America/Los_Angeles:20250928T090000
-DTSTAMP:20250912T002440Z
-UID:3397457079573203640@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/912255/group_events
- /3397457079573203640\nRide starts at: 09:00 AM
-URL:https://www.strava.com/clubs/912255/group_events/3397457079573203640
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Training Road Ride (week 5/4 rest week)
-DTSTART;TZID=America/Los_Angeles:20250930T054500
-DTEND;TZID=America/Los_Angeles:20250930T061500
-DTSTAMP:20250912T002440Z
-UID:3395148988486514452@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/1083211/group_event
- s/3395148988486514452\nRide starts at: 06:15 AM
-URL:https://www.strava.com/clubs/1083211/group_events/3395148988486514452
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Donut Alley 🍩 🌴
-DTSTART;TZID=America/Los_Angeles:20251002T060000
-DTEND;TZID=America/Los_Angeles:20251002T063000
-DTSTAMP:20250912T002440Z
-UID:2178611@strava-scraper
-DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
- 2178611\nRide starts at: 06:30 AM
-URL:https://www.strava.com/clubs/40422/group_events/2178611
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:FTWNB+ & Allies Ride
-DTSTART;TZID=America/Los_Angeles:20251006T060000
-DTEND;TZID=America/Los_Angeles:20251006T063000
-DTSTAMP:20250912T002440Z
+DTSTART;TZID=America/Los_Angeles:20251103T060000
+DTEND;TZID=America/Los_Angeles:20251103T063000
+DTSTAMP:20251006T205108Z
 UID:1645364@strava-scraper
 DESCRIPTION:Strava Event: https://www.strava.com/clubs/40422/group_events/
  1645364\nRide starts at: 06:30 AM
